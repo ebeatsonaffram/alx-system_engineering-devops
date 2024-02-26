@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#A script that uses the while loop to to print "BEST SCHHOL" 10 TIMES
+
+i=1
+
+while [ $i -le 10 ]
+do
+    echo "Best School"
+    ((i++))
+done
