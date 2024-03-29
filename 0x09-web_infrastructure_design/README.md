@@ -1,0 +1,1 @@
+This directrory is about the basics and undesrtanding of web infrastructure and what happens behind the scenes when you request for a website. Done by Enyonam Beatson-Affram and Esegbe Able Katapu
