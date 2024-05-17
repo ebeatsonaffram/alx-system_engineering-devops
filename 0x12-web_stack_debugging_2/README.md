@@ -1,0 +1,1 @@
+This directory is about web stack debugging - Enyonam Beatson-Affram
