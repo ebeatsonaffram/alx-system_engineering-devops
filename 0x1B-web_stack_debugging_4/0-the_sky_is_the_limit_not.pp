@@ -1,6 +1,3 @@
-0-the_sky_is_the_limit_not.pp
-
-
 # fix nginx to accept and serve more requests
 
 exec {'modify max open files limit setting':
